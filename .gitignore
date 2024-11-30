@@ -1,0 +1,10 @@
+.idea
+.vs
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+web.api/appsettings.json
